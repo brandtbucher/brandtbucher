@@ -29,7 +29,7 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 ----
 
 ### PyCon JP 2021
-- A Perfect `match`
+- [A Perfect `match`](https://www.youtube.com/watch?v=ggPJLwIbbyY&t=213s)
 
 ### Python 3.10 Release Stream
 
