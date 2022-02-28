@@ -13,7 +13,7 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 2020
 ----
 
-### DLS 2020: Proceedings of the 16th ACM SIGPLAN International Symposium on Dynamic Languages
+### Dynamic Languages Symposium 2020
 
 - [Dynamic Pattern Matching with Python](https://dl.acm.org/doi/10.1145/3426422.3426983)
 
@@ -41,3 +41,6 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 2022
 ----
+
+### PyCon US 2022
+- [A Perfect `match`](https://us.pycon.org/2022/schedule/presentation/116/)
