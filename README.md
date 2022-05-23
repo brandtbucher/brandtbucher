@@ -8,7 +8,7 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 ### Python Enhancement Proposals
 
-- [PEP 584 -- Add Union Operators To dict](https://www.python.org/dev/peps/pep-0584)
+- [PEP 584 – Add Union Operators To dict](https://www.python.org/dev/peps/pep-0584)
 
 2020
 ----
@@ -19,11 +19,11 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 ### Python Enhancement Proposals
 
-- [PEP 584 -- Add Union Operators To dict](https://www.python.org/dev/peps/pep-0584)
-- [PEP 614 -- Relaxing Grammar Restrictions On Decorators](https://www.python.org/dev/peps/pep-0614)
-- [PEP 618 -- Add Optional Length-Checking To zip](https://www.python.org/dev/peps/pep-0618)
-- [PEP 622 -- Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622)
-- [PEP 634 -- Structural Pattern Matching: Specification](https://www.python.org/dev/peps/pep-0634)
+- [PEP 584 – Add Union Operators To dict](https://www.python.org/dev/peps/pep-0584)
+- [PEP 614 – Relaxing Grammar Restrictions On Decorators](https://www.python.org/dev/peps/pep-0614)
+- [PEP 618 – Add Optional Length-Checking To zip](https://www.python.org/dev/peps/pep-0618)
+- [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622)
+- [PEP 634 – Structural Pattern Matching: Specification](https://www.python.org/dev/peps/pep-0634)
 
 2021
 ----
@@ -37,10 +37,10 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 ### Python Enhancement Proposals
 
-- [PEP 634 -- Structural Pattern Matching: Specification](https://www.python.org/dev/peps/pep-0634)
+- [PEP 634 – Structural Pattern Matching: Specification](https://www.python.org/dev/peps/pep-0634)
 
 2022
 ----
 
 ### PyCon US 2022
-- [A Perfect `match`](https://us.pycon.org/2022/schedule/presentation/116/)
+- [A Perfect `match`](https://www.youtube.com/watch?v=XpxTrDDcpPE)
