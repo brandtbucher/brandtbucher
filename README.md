@@ -42,3 +42,7 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 ### Talk Python To Me
 
 - [Python Perf: Specializing, Adaptive Interpreter](https://www.youtube.com/watch?v=tNs18GDmAfg)
+
+### Python 3.11 Release
+
+- [Making CPython 3.11 Especially Fast](https://www.youtube.com/watch?v=PGZPSWZSkJI&t=1472s)
