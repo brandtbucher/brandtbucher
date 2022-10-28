@@ -24,6 +24,10 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 2021
 ----
 
+### PyCharm by JetBrains
+
+- [What's New in Python 3.10](https://www.youtube.com/watch?v=JteTO3EE7y0)
+
 ### PyCon JP 2021
 
 - [A Perfect `match`](https://www.youtube.com/watch?v=ggPJLwIbbyY&t=213s)
@@ -35,15 +39,19 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 2022
 ----
 
+### Microsoft Python DevBlog
+
+- [A Team at Microsoft is Helping Make Python Faster](https://devblogs.microsoft.com/python/python-311-faster-cpython-team)
+
 ### PyCon US 2022
 
 - [A Perfect `match`](https://www.youtube.com/watch?v=XpxTrDDcpPE)
+
+### Python 3.11 Release
+
+- [Making CPython 3.11 Especially Fast](https://www.youtube.com/watch?v=PGZPSWZSkJI&t=1472s)
 
 ### Talk Python To Me
 
 - [Python 3.11 Release Episode](https://www.youtube.com/watch?v=Iak-6AsMLsU)
 - [Python Perf: Specializing, Adaptive Interpreter](https://www.youtube.com/watch?v=tNs18GDmAfg)
-
-### Python 3.11 Release
-
-- [Making CPython 3.11 Especially Fast](https://www.youtube.com/watch?v=PGZPSWZSkJI&t=1472s)
