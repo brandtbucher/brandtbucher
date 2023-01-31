@@ -2,6 +2,8 @@
 
 I'm a computer-engineer-turned-software-engineer, heavily involved in CPython development. If my volunteer work has been of any value to you or your organization, consider [sponsoring me](https://www.github.com/sponsors/brandtbucher)!
 
+<br>
+
 [**Python 3.11 Release Episode**](https://www.youtube.com/watch?v=Iak-6AsMLsU)
 <br>
 Talk Python
@@ -32,6 +34,11 @@ PyCon US 2022
 <br>
 April 29th, 2022
 
+<br>
+<details>
+<summary> 2021 </summary>
+<br>
+
 [**A Perfect `match`**](https://www.youtube.com/watch?v=ggPJLwIbbyY&t=213s)
 <br>
 PyCon JP 2021
@@ -49,6 +56,11 @@ October 4th, 2021
 PyCharm by JetBrains
 <br>
 October 4th, 2021
+
+<br>
+<details>
+<summary> 2020 </summary>
+<br>
 
 [**Dynamic Pattern Matching with Python**](https://dl.acm.org/doi/10.1145/3426422.3426983)
 <br>
@@ -80,10 +92,19 @@ Python Enhancement Proposals
 <br>
 February 10th, 2020
 
+<br>
+<details>
+<summary> 2019 </summary>
+<br>
+
 [**PEP 584 – Add Union Operators To dict**](https://www.python.org/dev/peps/pep-0584)
 <br>
 Python Enhancement Proposals
 <br>
 March 1st, 2019
+
+</details>
+</details>
+</details>
 
 </div>
