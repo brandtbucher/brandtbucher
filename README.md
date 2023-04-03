@@ -4,6 +4,17 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**A tour of CPython's bytecode compiler**](2023/03/14/a_tour_of_cpythons_bytecode_compiler.pdf)
+<br>
+University of California, Irvine
+<br>
+March 14th, 2023
+
+<br>
+<details>
+<summary> 2022 </summary>
+<br>
+
 [**Python 3.11 Release Episode**](https://www.youtube.com/watch?v=Iak-6AsMLsU)
 <br>
 Talk Python
@@ -103,6 +114,7 @@ Python Enhancement Proposals
 <br>
 March 1st, 2019
 
+</details>
 </details>
 </details>
 </details>
