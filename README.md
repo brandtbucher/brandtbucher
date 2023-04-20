@@ -4,6 +4,12 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**Inside CPython 3.11's new specializing, adaptive interpreter**](2023/04/21/inside_cpython_311s_new_specializing_adaptive_interpreter.pdf)
+<br>
+PyCon US 2023
+<br>
+April 21st, 2023
+
 [**A tour of CPython's bytecode compiler**](2023/03/14/a_tour_of_cpythons_bytecode_compiler.pdf)
 <br>
 University of California, Irvine
