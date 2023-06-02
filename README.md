@@ -4,7 +4,7 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
-[**Inside CPython 3.11's new specializing, adaptive interpreter**](2023/04/21/inside_cpython_311s_new_specializing_adaptive_interpreter.pdf)
+[**Inside CPython 3.11's new specializing, adaptive interpreter**](https://youtu.be/shQtrn1v7sQ)
 <br>
 PyCon US 2023
 <br>
