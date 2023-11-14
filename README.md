@@ -1,8 +1,14 @@
 <div align=center>
 
-I'm a computer-engineer-turned-software-engineer, heavily involved in CPython development. If my volunteer work has been of any value to you or your organization, consider [sponsoring me](https://www.github.com/sponsors/brandtbucher)!
+I'm a computer-engineer-turned-software-engineer, heavily involved in CPython development.
 
 <br>
+
+[**A JIT compiler for CPython**](https://youtu.be/HxSHIpEQRjs)
+<br>
+CPython Core Dev Sprint 2023
+<br>
+October 10th, 2023
 
 [**Inside CPython 3.11's new specializing, adaptive interpreter**](https://youtu.be/shQtrn1v7sQ)
 <br>
