@@ -4,6 +4,17 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**A tour of CPython's runtime**](2024/03/11/a_tour_of_cpythons_runtime.pdf)
+<br>
+University of California, Irvine
+<br>
+March 11th, 2024
+
+<br>
+<details>
+<summary> 2023 </summary>
+<br>
+
 [**A JIT compiler for CPython**](https://youtu.be/HxSHIpEQRjs)
 <br>
 CPython Core Dev Sprint 2023
@@ -126,6 +137,7 @@ Python Enhancement Proposals
 <br>
 March 1st, 2019
 
+</details>
 </details>
 </details>
 </details>
