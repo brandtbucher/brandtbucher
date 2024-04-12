@@ -4,6 +4,12 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**PEP 744 – JIT Compilation**](https://www.python.org/dev/peps/pep-0744)
+<br>
+Python Enhancement Proposals
+<br>
+April 11th, 2024
+
 [**A tour of CPython's runtime**](2024/03/11/a_tour_of_cpythons_runtime.pdf)
 <br>
 University of California, Irvine
