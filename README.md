@@ -4,6 +4,12 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**Building a JIT compiler for CPython**](2024/05/19/building_a_jit_compiler_for_cpython.pdf)
+<br>
+PyCon US 2024
+<br>
+May 19th, 2024
+
 [**PEP 744 – JIT Compilation**](https://www.python.org/dev/peps/pep-0744)
 <br>
 Python Enhancement Proposals
