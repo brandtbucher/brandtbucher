@@ -4,6 +4,18 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**A Legit Episode**](https://www.youtube.com/watch?v=IGYxMsHw9iw)
+<br>
+core.py
+<br>
+June 29th, 2024
+
+[**Computational Complexity Theory**](2024/06/22/building_a_jit_compiler_for_cpython.pdf)
+<br>
+Charles' 30th Birthday Party
+<br>
+June 22nd, 2024
+
 [**Building a JIT compiler for CPython**](2024/05/19/building_a_jit_compiler_for_cpython.pdf)
 <br>
 PyCon US 2024
@@ -27,13 +39,13 @@ March 11th, 2024
 <summary> 2023 </summary>
 <br>
 
-[**A JIT compiler for CPython**](https://youtu.be/HxSHIpEQRjs)
+[**A JIT compiler for CPython**](https://www.youtube.com/watch?v=HxSHIpEQRjs)
 <br>
 CPython Core Dev Sprint 2023
 <br>
 October 10th, 2023
 
-[**Inside CPython 3.11's new specializing, adaptive interpreter**](https://youtu.be/shQtrn1v7sQ)
+[**Inside CPython 3.11's new specializing, adaptive interpreter**](https://www.youtube.com/watch?v=shQtrn1v7sQ)
 <br>
 PyCon US 2023
 <br>
