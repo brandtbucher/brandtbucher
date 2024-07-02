@@ -10,7 +10,7 @@ core.py
 <br>
 June 29th, 2024
 
-[**Computational Complexity Theory**](2024/06/22/building_a_jit_compiler_for_cpython.pdf)
+[**Computational Complexity Theory**](2024/06/22/computational_complexity_theory.pdf)
 <br>
 Charles' 30th Birthday Party
 <br>
