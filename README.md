@@ -16,7 +16,7 @@ Charles' 30th Birthday Party
 <br>
 June 22nd, 2024
 
-[**Building a JIT compiler for CPython**](2024/05/19/building_a_jit_compiler_for_cpython.pdf)
+[**Building a JIT compiler for CPython**](https://www.youtube.com/watch?v=wr0fVU3Ajwc)
 <br>
 PyCon US 2024
 <br>
