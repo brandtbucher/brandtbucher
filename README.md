@@ -4,6 +4,12 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**Enabling CPython's JIT Compiler**](2024/09/26/enabling_cpythons_jit_compiler.pdf)
+<br>
+CPython Core Dev Sprint 2024
+<br>
+September 26th, 2024
+
 [**A Legit Episode**](https://www.youtube.com/watch?v=IGYxMsHw9iw)
 <br>
 core.py
