@@ -4,6 +4,12 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**Core sprint at Meta**](https://www.youtube.com/watch?v=G9A0kh-iomY&t=528s)
+<br>
+core.py
+<br>
+October 3rd, 2024
+
 [**Enabling CPython's JIT Compiler**](2024/09/26/enabling_cpythons_jit_compiler.pdf)
 <br>
 CPython Core Dev Sprint 2024
