@@ -4,6 +4,12 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**Python 3.13 Release Stream**](https://youtube.com/watch?v=7MAPzvv3ZG0&t=692s)
+<br>
+Python Discord
+<br>
+October 8th, 2024
+
 [**Core sprint at Meta**](https://www.youtube.com/watch?v=G9A0kh-iomY&t=528s)
 <br>
 core.py
