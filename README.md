@@ -4,6 +4,12 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**A tour of CPython's runtime**](2024/10/20/a_tour_of_cpythons_runtime.pdf)
+<br>
+VMIL 2024
+<br>
+October 20th, 2024
+
 [**Python 3.13 Release Stream**](https://youtube.com/watch?v=7MAPzvv3ZG0&t=692s)
 <br>
 Python Discord
