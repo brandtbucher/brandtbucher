@@ -4,7 +4,7 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
-[**A tour of CPython's runtime**](2024/10/20/a_tour_of_cpythons_runtime.pdf)
+[**A tour of CPython's runtime**](https://www.youtube.com/watch?v=VgDt_dkI70Q&t=7877s)
 <br>
 VMIL 2024
 <br>
