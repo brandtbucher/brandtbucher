@@ -4,6 +4,23 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+**What they don't tell you about building JIT compilers**
+<br>
+University of California, Irvine
+<br>
+March 13th, 2025
+
+**Python is slow... let's make it faster!**
+<br>
+hack night!
+<br>
+February 22nd, 2025
+
+<br>
+<details>
+<summary> 2024 </summary>
+<br>
+
 [**A tour of CPython's runtime**](https://www.youtube.com/watch?v=VgDt_dkI70Q&t=7877s)
 <br>
 VMIL 2024
@@ -185,6 +202,7 @@ Python Enhancement Proposals
 <br>
 March 1st, 2019
 
+</details>
 </details>
 </details>
 </details>
