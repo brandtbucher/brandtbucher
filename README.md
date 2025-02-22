@@ -10,7 +10,7 @@ University of California, Irvine
 <br>
 March 13th, 2025
 
-**Python is slow... let's make it faster!**
+[**Python is slow... let's make it faster!**](2025/02/22/python_is_slow_lets_make_it_faster.pdf)
 <br>
 hack night!
 <br>
