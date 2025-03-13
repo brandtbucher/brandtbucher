@@ -4,7 +4,7 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
-**What they don't tell you about building JIT compilers**
+[**What they don't tell you about building a JIT compiler**](2025/03/13/what_they_dont_tell_you_about_building_a_jit_compiler.pdf)
 <br>
 University of California, Irvine
 <br>
