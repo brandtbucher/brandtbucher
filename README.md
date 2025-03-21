@@ -21,7 +21,7 @@ February 22nd, 2025
 <summary> 2024 </summary>
 <br>
 
-[**A tour of CPython's runtime**](https://www.youtube.com/watch?v=VgDt_dkI70Q&t=7877s)
+[**A tour of CPython's runtime**](https://www.youtube.com/watch?v=s9X7r9aoQLQ)
 <br>
 VMIL 2024
 <br>
