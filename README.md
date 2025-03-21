@@ -4,6 +4,12 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**What they don't tell you about building a JIT compiler for CPython**](https://us.pycon.org/2025/schedule/presentation/5)
+<br>
+PyCon US 2025
+<br>
+May 17th, 2025
+
 [**What they don't tell you about building a JIT compiler**](2025/03/13/what_they_dont_tell_you_about_building_a_jit_compiler.pdf)
 <br>
 University of California, Irvine
