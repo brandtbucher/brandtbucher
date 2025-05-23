@@ -4,7 +4,7 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
-[**What they don't tell you about building a JIT compiler for CPython**](2025/05/17/what_they_dont_tell_you_about_building_a_jit_compiler_for_cpython.pdf)
+[**What they don't tell you about building a JIT compiler for CPython**](https://youtube.com/watch?v=NE-Oq8I3X_w)
 <br>
 PyCon US 2025
 <br>
