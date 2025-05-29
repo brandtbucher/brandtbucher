@@ -4,6 +4,12 @@ I'm a computer-engineer-turned-software-engineer, heavily involved in CPython de
 
 <br>
 
+[**Building a JIT compiler for CPython**](https://www.youtube.com/watch?v=abNY_RcO-BU)
+<br>
+Talk Python
+<br>
+May 27th, 2025
+
 [**What they don't tell you about building a JIT compiler for CPython**](https://youtube.com/watch?v=NE-Oq8I3X_w)
 <br>
 PyCon US 2025
